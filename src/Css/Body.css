@@ -102,6 +102,7 @@ body{
     .skillBartext>p{
         font-size:2vw
     }
+    
 }
 @media screen and (max-width:600px) {
    .skillBartext{

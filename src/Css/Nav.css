@@ -90,6 +90,10 @@ a{
 @media  screen and (max-width:720px) {
     .mobmenu{
         display: flex;
+        width: 50px;
+    }
+    .mobmenu_icon{
+        size:20px;
     }
     .desktopMenu{
         display: none;
@@ -98,8 +102,4 @@ a{
         display: none;
     }
 }
-@media screen and (max-width:590){
-    .containerflu{
-        width:150vw;
-    }
-}
+
